@@ -32,6 +32,15 @@ Fitness Club is a comprehensive fitness website built using React and RapidAPI. 
 ```bash
 git clone https://github.com/RM-2002/Fitness_Website.git
 
+cd Fitness_Website
+
+npm install
+
+npm start
+
+## Feel free to explore the project and provide any feedback or suggestions!
+
+
 
 
 
