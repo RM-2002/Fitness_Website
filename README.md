@@ -1,5 +1,10 @@
 # Fitness Club - Your Health Is An Investment, Not An Expense.
 
+![image](https://github.com/RM-2002/Fitness_Website/assets/89720737/fcca933c-ff96-4a88-880d-03f7711a9eb4)
+
+![image](https://github.com/RM-2002/Fitness_Website/assets/89720737/201b87c4-b93c-430f-af7f-a1951749baec)
+
+
 ## Overview
 
 Fitness Club is a comprehensive fitness website built using React and RapidAPI. It enables users to explore various exercise categories and muscle groups, offering a tailored fitness experience. With a vast exercise database featuring over 1000 practical examples, users can access detailed exercise information, benefit from pagination, and watch related YouTube videos for each exercise.
